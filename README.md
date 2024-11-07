@@ -2,15 +2,15 @@
 
 ---
 
-# Robolab: Robotics Sub-package for Rofunc 
+# Robolab: Robotics Sub-package for Rofunc
 
 ## Introduction
 
-This repository is a sub-package of Rofunc, which is a full-process Python package for robot learning from demonstration 
-and robot manipulation. This sub-package is designed for robotics, including functions for coordinate transformation, 
+This repository is a sub-package of Rofunc, which is a full-process Python package for robot learning from demonstration
+and robot manipulation. This sub-package is designed for robotics, including functions for coordinate transformation,
 forward/inverse kinematics and dynamics, Jacobian, manipulability, and robot distance field (RDF).
 
-## Functions 
+## Functions
 
 1. **Coordinate Transformation**
 2. **Forward Kinematics**
@@ -18,8 +18,15 @@ forward/inverse kinematics and dynamics, Jacobian, manipulability, and robot dis
 4. **Forward Dynamics**
 5. **Inverse Dynamics**
 6. **Jacobian**
-7. **Manipulability** 
+7. **Manipulability**
 8. **Robot Distance Field (RDF)**
+
+## Installation
+
+```shell
+git clone https://github.com/Skylark0924/Robolab.git
+pip install .
+```
 
 ---
 For Rofunc, please visit the main repository.

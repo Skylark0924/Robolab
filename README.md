@@ -1,7 +1,3 @@
-![](doc/img/logo/logo8.png)
-
----
-
 # Robolab: Robotics Sub-package for Rofunc
 
 ## Introduction
